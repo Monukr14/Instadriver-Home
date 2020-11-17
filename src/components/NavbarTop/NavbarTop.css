@@ -1,0 +1,13 @@
+.nav-btn-stl{
+    color: #3B3B3B;
+    border: 2px solid #212529;
+}
+.nav-btn-stl:hover {
+    background-color: #212529 !important;
+    color: white !important;
+    outline: none !important;
+    border-color: #212529 !important;
+}
+.nav-btn-stl:focus {
+    box-shadow: none !important;
+}
