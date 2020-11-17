@@ -1,0 +1,89 @@
+/* Header.js */
+.content-head{
+    text-align: center;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 40px;
+}
+.s-btn-stl{
+    background-color: #fed136 !important;
+    border-color: #fed136 !important;
+}
+.center-box{
+    background-image: url("../../Images/transparent.png");
+    padding: 15px;
+    padding-bottom: 25px;
+}
+.head-content{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.form-details{
+    padding: 24px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.form-select-size{
+    font-size: 13px !important;
+    /* padding: 2px !important; */
+}
+
+/* Services.js */
+
+.services{
+    padding-top: 40px;
+}
+.content-center > h2{
+    color: #3B3B3B;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 29px;
+    margin-bottom: 0px;
+}
+.service-tabs{
+    display: flex;
+    justify-content: center;
+}
+.tabs-style{
+overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+.tabs-style button{
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+.tabs-style button:hover {
+    background-color: yellow;
+  }
+.btn-a-color{
+    background-color: yellow;
+}
+.service-heading {
+    margin: 15px 0;
+    font-size: 18px;
+    /* color: #3B3B3B; */
+    margin-bottom: 7px;
+    text-transform: none;
+}
+
+/* Portfolio.js */
+.portfolio{
+    padding-top: 58px;
+}
+.padding501{
+    padding:50px;
+}
+.yellowbg {
+    background-color: #F8BD00;
+    padding: 50px;
+}

@@ -1,0 +1,11 @@
+.about {
+    text-align: center;
+    color: #fff;
+    background-image: url(../../Images/imgsmall.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 30px;
+}

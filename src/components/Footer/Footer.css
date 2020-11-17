@@ -1,0 +1,41 @@
+.footer {
+    text-align: center;
+    color: #fff;
+    background-image: url(../../Images/footer.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 40px;
+}
+.spacing {
+    padding-top: 62px;
+}
+.text-left {
+    text-align: left!important;
+}
+.service-heading {
+    margin: 15px 0;
+    font-size: 18px;
+    color: #3B3B3B;
+    margin-bottom: 7px;
+    text-transform: none;
+}
+.links {
+    color: #C7C6BF;
+    font-family: Rubik;
+    font-size: 15px;
+    line-height: 18px;
+    color: #C7C6BF;
+    font-family: Rubik;
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 100;
+}
+.list-inline-item {
+    display: inline-block;
+}
+.footer h4 {
+    color: #fff!important;
+}
